@@ -1,0 +1,5 @@
+*.nrrd 
+*.pkl 
+*.png
+*.jpeg
+__pycache__
